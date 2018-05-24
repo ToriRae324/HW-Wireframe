@@ -3,21 +3,16 @@
     text-align: center;
 }
 
-/* .wrapper {
-    width: 960px;
-    margin: 0 auto;
-} */
 
 body {
-    background: #777;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #777;
-    font-size: 18px;
-    width: 960px;
-    margin: 0 auto;
+    background-color: rgb(74, 71, 71);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
-
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
 
 /* Visual Outline */
 header,
@@ -25,7 +20,7 @@ nav,
 section,
 aside,
 footer {
-    background: #ebebeb;
+    background: lightgray;
 }
 /* Visual Outline End */
 
@@ -41,19 +36,19 @@ nav {
 
 section {
     float: left;
-    width: 495px;
+    width: 58%;
     padding: 10px;
     padding-top: 30px;
     margin-bottom: 20px;
-    margin-right: 20px;
-    /* height: 325px; */
+    margin-right: 2%;
+    height: 325px;
 }
 
 
 
 article {
-    background: #777;
-    color: #ebebeb;
+    background-color: rgb(74, 71, 71);
+    color: white;
     margin: 5px;
     margin-top: 40px;
     padding: 10px;
@@ -77,8 +72,8 @@ article {
 
 aside {
     float: left;
-    width: 445px;
-    /* height: 325px; */
+    width: 40%;
+    height: 325px;
     padding: 30px;
 
 }
