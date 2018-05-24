@@ -61,15 +61,15 @@ article {
 }
 
 .headings {
-    background: lightgrey;
-    color: black;
+    background: #ebebeb;
+    color: #777;
     margin: 20px;
     padding: 1px;
 }
 
 .paragraph {
-    background: lightgrey;
-    color: black;
+    background: #ebebeb;
+    color: #777;
     margin: 20px;
     padding: 1px;
 }
