@@ -46,7 +46,7 @@ section {
     padding-top: 30px;
     margin-bottom: 20px;
     margin-right: 20px;
-    /* height: 325px; */
+    height: 402px;
 }
 
 
@@ -78,7 +78,7 @@ article {
 aside {
     float: left;
     width: 445px;
-    /* height: 325px; */
+    height: 402px;
     padding: 30px;
 
 }

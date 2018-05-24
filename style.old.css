@@ -41,7 +41,7 @@ section {
     padding-top: 30px;
     margin-bottom: 20px;
     margin-right: 2%;
-    height: 325px;
+    height: 350px;
 }
 
 
@@ -50,7 +50,7 @@ article {
     background-color: rgb(74, 71, 71);
     color: white;
     margin: 5px;
-    margin-top: 40px;
+    /* margin-top: 15px; */
     padding: 10px;
     padding-top: 20px;
 }
@@ -73,7 +73,7 @@ article {
 aside {
     float: left;
     width: 40%;
-    height: 325px;
+    height: 350px;
     padding: 30px;
 
 }
